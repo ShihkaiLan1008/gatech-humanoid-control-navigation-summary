@@ -1,4 +1,6 @@
-# Humanoid Control and Navigation: Training and Evaluation
+# Humanoid Control and Navigation: Research Summary
+
+> **Concise edition.** [Read the full research portfolio](https://github.com/ShihkaiLan1008/gatech-humanoid-control-navigation).
 
 ![Sky Lan's humanoid robotics portfolio, with a trajectory from a recorded simulation.](assets/research-cover.svg)
 
@@ -25,9 +27,9 @@ I am a student participant in Georgia Tech's LIDAR research group. **Under my me
 
 ## The recorded navigation pilot
 
-[![Recorded central-island simulation with the robot, executed path and localization panel. Open the full MP4.](projects/tactile-navigation/outputs/island_video_frame.png)](https://github.com/ShihkaiLan1008/gatech-humanoid-control-navigation/raw/refs/heads/main/projects/tactile-navigation/out/sky_evaluation_20261003/new_maps_physics/footstep/sky_island_choice/seed_0/sky_island_choice_footstep_pf_global_s0.mp4)
+[![Recorded central-island simulation with the robot, executed path and localization panel. Open the full MP4.](projects/tactile-navigation/outputs/island_video_frame.png)](https://github.com/ShihkaiLan1008/gatech-humanoid-control-navigation-summary/raw/refs/heads/main/projects/tactile-navigation/out/sky_evaluation_20261003/new_maps_physics/footstep/sky_island_choice/seed_0/sky_island_choice_footstep_pf_global_s0.mp4)
 
-*Actual simulation replay, using the team's trained controller. [Download the central-island MP4 (13.3 MiB)](https://github.com/ShihkaiLan1008/gatech-humanoid-control-navigation/raw/refs/heads/main/projects/tactile-navigation/out/sky_evaluation_20261003/new_maps_physics/footstep/sky_island_choice/seed_0/sky_island_choice_footstep_pf_global_s0.mp4) · [All four runs and frame sheets](docs/VIDEOS.md)*
+*Actual simulation replay, using the team's trained controller. [Download the central-island MP4 (13.3 MiB)](https://github.com/ShihkaiLan1008/gatech-humanoid-control-navigation-summary/raw/refs/heads/main/projects/tactile-navigation/out/sky_evaluation_20261003/new_maps_physics/footstep/sky_island_choice/seed_0/sky_island_choice_footstep_pf_global_s0.mp4) · [All four runs and frame sheets](docs/VIDEOS.md)*
 
 **Four completed trials physically reached the goal region; one met the framework's completion condition. No fall was reported.**
 
@@ -72,8 +74,8 @@ Team data, content and images supplied through Zhenyu Wu are included with his p
 The archive preserves code snapshots, configurations, models, logs and recordings. Large files use Git LFS:
 
 ```bash
-git clone https://github.com/ShihkaiLan1008/gatech-humanoid-control-navigation.git
-cd gatech-humanoid-control-navigation
+git clone https://github.com/ShihkaiLan1008/gatech-humanoid-control-navigation-summary.git
+cd gatech-humanoid-control-navigation-summary
 git lfs pull
 ```
 
